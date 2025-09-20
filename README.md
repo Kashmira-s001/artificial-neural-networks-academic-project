@@ -8,19 +8,32 @@ Each project maps directly to a **unit in the syllabus** and demonstrates both *
 ## 📂 Repository Structure  
 
 ANN-Mini-Projects/
-│── Unit1-Perceptron-Basics/
+│── Unit 1 - Perceptron-Basics/
+|
 │ └── perceptron_binary_classification.ipynb
-│── Unit2-MLP-Backprop/
+|
+│── Unit 2 - MLP-Backprop/
+|
 │ └── mlp_xor_classification.ipynb
-│── Unit3-RBF-Networks/
+|
+│── Unit 3 - RBF-Networks/
+|
 │ └── rbf_function_approximation.ipynb
-│── Unit4-Hebbian-Learning/
+|
+│── Unit 4 - Hebbian-Learning/
+|
 │ └── hebbian_pattern_storage.ipynb
-│── Unit5-HOP-Hopfield-Networks/
+|
+│── Unit 5 - HOP-Hopfield-Networks/
+|
 │ └── hopfield_associative_memory.ipynb
-│── Unit6-SOM-Kohonen-Networks/
+|
+│── Unit 6 - SOM-Kohonen-Networks/
+|
 │ └── som_clustering_visualization.ipynb
+|
 │── banner.png
+|
 │── README.md
 
 
